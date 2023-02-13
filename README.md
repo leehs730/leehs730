@@ -1,4 +1,5 @@
-### Hi there 👋
+## 🛠 Tech Stack 🛠
+
 
 <!--
 **leehs730/leehs730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
