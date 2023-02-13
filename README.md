@@ -1,5 +1,12 @@
 ## 🛠 Tech Stack 🛠
 
+![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat=square&logo=python&logoColor=white)
+
+![Unity Badge](https://img.shields.io/badge/-Unity-black?style=flat=square&logo=unity&logoColor=white)
+
+![C# Badge](https://img.shields.io/badge/-C%23-purple?style=flat=square&logo=Csharp&logoColor=white)
+
+![Java Badge](https://img.shields.io/badge/-JAVA-orange?style=flat=square&logo=java&logoColor=White)
 
 <!--
 **leehs730/leehs730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
