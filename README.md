@@ -17,6 +17,13 @@ a job group that mixes map design, character design, sound, and various systems 
 ![Java Badge](https://img.shields.io/badge/-JAVA-orange?style=flat=square&logo=java&logoColor=White)
 ![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=flat=square&logo=C&logoColor=white)
 
+-----------------------------
+## ⚡ Github state ⚡
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehs730&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehs730&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **leehs730/leehs730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
