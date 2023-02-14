@@ -5,6 +5,10 @@
   
 </div>
 
+## Game Programmer
+
+a job group that mixes map design, character design, sound, and various systems through programming to create a single core product called a game. It is also called a software engineer.
+
 ## 🛠 Tech Stack 🛠
 
 ![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat=square&logo=python&logoColor=white)
